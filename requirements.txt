@@ -1,0 +1,5 @@
+streamlit
+python-docx
+sentence-transformers
+pypdf
+keybert
